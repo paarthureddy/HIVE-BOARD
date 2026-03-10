@@ -1,4 +1,9 @@
+### 💻 GitHub Repositories
 
+* Frontend → [https://github.com/paarthureddy/-HiveBoard-Frontend](https://github.com/paarthureddy/-HiveBoard-Frontend)
+* Backend → [https://github.com/paarthureddy/HiveBoard-Backend](https://github.com/paarthureddy/HiveBoard-Backend)
+
+---
 
 # 🐝 HiveBoard
 
